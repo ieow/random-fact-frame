@@ -1,4 +1,8 @@
 import Image from "next/image";
+// import {generateMetadata} from "./random-fact/page";
+
+// make random fact as default endpoint
+export {generateMetadata} from "./random-fact/page";
 
 export default function Home() {
   return (

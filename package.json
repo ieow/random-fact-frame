@@ -11,6 +11,7 @@
   "dependencies": {
     "frames.js": "^0.9.3",
     "next": "14.1.4",
+    "node-random-color": "^0.2.0",
     "react": "^18",
     "react-dom": "^18"
   },
