@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# App
+Random Fact Frame will get random fact from https://uselessfacts.jsph.pl and present as frame 
+
+vercel deployment : [random-fact-frame.vercel.app](https://random-fact-frame.vercel.app)
+
 
 ## Getting Started
 
